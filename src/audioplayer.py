@@ -33,3 +33,11 @@ def play_random_audio(directory):
 # Example usage:
 audio_directory = "/Magang cps/audio_player/components"  # Replace with the path to your audio files
 play_random_audio(audio_directory)
+
+
+# Buat mengintegrasi ke face detect
+# def on_face_detected():
+#     play_random_audio(audio_directory)
+
+# if face_detected:  
+#     on_face_detected()
